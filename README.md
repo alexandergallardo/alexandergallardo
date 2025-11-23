@@ -1,10 +1,8 @@
 # 👋 Hi there! I'm Alexander Gallardo Torres.
 
-🌟 **FullStack Developer** with over 15 years of experience creating robust web applications and systems. My expertise lies in leveraging cutting-edge technologies to build efficient, scalable, and maintainable solutions.
+🌟 **FullStack Developer and Backend Specialist** with over 15 years of experience creating robust web applications and systems. My expertise lies in leveraging cutting-edge technologies to build efficient, scalable, and maintainable solutions.
 
 ## 🚀 Skills & Technologies:
-
-## 🚀 Tech Stack
  
 ### 🔹 Backend Frameworks
 - ![Laravel](https://img.shields.io/badge/Laravel-F55247?logo=laravel&logoColor=white&style=flat-square)
